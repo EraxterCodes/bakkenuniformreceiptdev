@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/bakkenuniformreceiptdev/static/css/main.403652e2.chunk.css",
-    "main.js": "/bakkenuniformreceiptdev/static/js/main.512782c9.chunk.js",
-    "main.js.map": "/bakkenuniformreceiptdev/static/js/main.512782c9.chunk.js.map",
+    "main.js": "/bakkenuniformreceiptdev/static/js/main.a266c9bb.chunk.js",
+    "main.js.map": "/bakkenuniformreceiptdev/static/js/main.a266c9bb.chunk.js.map",
     "runtime-main.js": "/bakkenuniformreceiptdev/static/js/runtime-main.8592cce0.js",
     "runtime-main.js.map": "/bakkenuniformreceiptdev/static/js/runtime-main.8592cce0.js.map",
-    "static/js/2.f1aa81d7.chunk.js": "/bakkenuniformreceiptdev/static/js/2.f1aa81d7.chunk.js",
-    "static/js/2.f1aa81d7.chunk.js.map": "/bakkenuniformreceiptdev/static/js/2.f1aa81d7.chunk.js.map",
+    "static/js/2.03302f03.chunk.js": "/bakkenuniformreceiptdev/static/js/2.03302f03.chunk.js",
+    "static/js/2.03302f03.chunk.js.map": "/bakkenuniformreceiptdev/static/js/2.03302f03.chunk.js.map",
     "index.html": "/bakkenuniformreceiptdev/index.html",
     "static/css/main.403652e2.chunk.css.map": "/bakkenuniformreceiptdev/static/css/main.403652e2.chunk.css.map",
-    "static/js/2.f1aa81d7.chunk.js.LICENSE.txt": "/bakkenuniformreceiptdev/static/js/2.f1aa81d7.chunk.js.LICENSE.txt"
+    "static/js/2.03302f03.chunk.js.LICENSE.txt": "/bakkenuniformreceiptdev/static/js/2.03302f03.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8592cce0.js",
-    "static/js/2.f1aa81d7.chunk.js",
+    "static/js/2.03302f03.chunk.js",
     "static/css/main.403652e2.chunk.css",
-    "static/js/main.512782c9.chunk.js"
+    "static/js/main.a266c9bb.chunk.js"
   ]
 }
